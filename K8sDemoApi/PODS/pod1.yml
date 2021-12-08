@@ -7,6 +7,6 @@ app: web
 spec:
 containers:
 - name: web-ctr
-image: 110542/atishimages:dockerdemo
+image: 10542/atishimages:dockerdemo
 ports:
 - containerPort: 8082
